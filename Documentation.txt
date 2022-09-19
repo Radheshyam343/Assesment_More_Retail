@@ -1,0 +1,19 @@
+I followed this procedure for this project is pep8 doc standard.
+----------------------------------------------------------------
+step 1: First i created a project RetailProj using the command 
+        "django-admin startproject Retail_proj".
+
+step 2: I created  an app Retail_App using the command
+        "python manage.py startapp RetailApp".
+
+step 3: I created Model named "Product Record" and "Transaction Record".
+
+step 4: I created serialization.py for serializing the complex data in python data.
+
+step 5: I created view.py file. 
+
+step 6: I wrote Api view for CRUD Opertion such as- GET, POST,PUT, DELETE.
+
+step 7: I did the test using Postman app.
+
+
